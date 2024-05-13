@@ -5,3 +5,5 @@ You find yourself lost in the depths of an enchanted forest. Strange creatures l
 What do you do next?
 
 
+Option 1: Follow the sparkling stream deeper into the forest. 
+You will find a lake filled with gold.
