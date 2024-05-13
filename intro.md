@@ -4,4 +4,4 @@ You find yourself lost in the depths of an enchanted forest. Strange creatures l
 
 What do you do next?
 
-Climb the ancient tree to get a better view of your surroundings.
+Option 2: Climb the ancient tree to get a better view of your surroundings.
