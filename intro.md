@@ -4,4 +4,7 @@ You find yourself lost in the depths of an enchanted forest. Strange creatures l
 
 What do you do next?
 
+option 3
+build a shelter and wait for help 
 
+The next day a helicopter flew above the land and sent a SOS message.
