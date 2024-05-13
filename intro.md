@@ -4,4 +4,6 @@ You find yourself lost in the depths of an enchanted forest. Strange creatures l
 
 What do you do next?
 
+option
 
+Build a shelter and spend the night where you are and wait for help. 
